@@ -1,0 +1,33 @@
+body{
+  background-color: #f7adc6;
+}
+.bg-dark {
+    background-color: #fff79a!important;
+}
+.navbar-dark .navbar-brand {
+    color: black;
+}
+.navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show>.nav-link {
+    color: black;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: black;
+}
+.carousel-inner img {
+  margin: auto;
+  width: 500px;
+  height: 627px;
+}
+h1{
+  margin: auto;
+}
+.prev, .next {
+  color: red;
+}
+.modal-backdrop {
+   background-color: Purple;
+}
+.btn-modal {
+  Background-color:#353a40;
+  color: white;
+}
