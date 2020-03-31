@@ -13,12 +13,19 @@ body{
 .navbar-dark .navbar-nav .nav-link {
     color: black;
 }
+.btn-outline-dark {
+    color: #dd1f58;
+    border-color: black;
+}
 .carousel-inner img {
   margin: auto;
   width: 500px;
   height: 627px;
 }
 h1{
+  margin: auto;
+}
+h2{
   margin: auto;
 }
 .prev, .next {
