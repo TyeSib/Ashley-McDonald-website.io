@@ -1,6 +1,10 @@
 body{
   background-color: #f7adc6;
 }
+.logo{
+  height:auto;
+  width: auto;
+}
 .bg-dark {
     background-color: #fff79a!important;
 }
