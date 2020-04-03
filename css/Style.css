@@ -38,7 +38,8 @@ h2{
 .modal-backdrop {
    background-color: Purple;
 }
-.btn-modal {
-  Background-color:#353a40;
-  color: white;
+.btn-primary {
+    color: red;
+    background-color:;
+    border-color: black;
 }
